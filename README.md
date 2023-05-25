@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adham+Osama....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adham+Osama....;Nice+to+meet+you!&center=true&size=26">
 </h1>
 
 
@@ -29,16 +29,6 @@
 <p align="center">
   Hi, I'm Adham Osama, Flutter developer
   <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
   💬 Ask me anything about from <a href="https://github.com/adhamosamaa/adhamosamaa/issues" title="Issues">Here</a>
   <br>
